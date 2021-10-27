@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '阿喆 | ',
+  title: '阿喆',
   author: 'YINLINZHE.CN',
   email: 'yinlinzhe.cn@gmail.com',
   link: 'https://zhe.vercel.app',
