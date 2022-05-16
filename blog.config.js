@@ -1,7 +1,7 @@
 const BLOG = {
   title: '1988.ONE | Beta',
   author: '1988.ONE',
-  email: 'xxx@gmail.com',
+  email: '1988@gmail.com',
   link: 'https://1988.vercel.app',
   description: ' 加油！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
