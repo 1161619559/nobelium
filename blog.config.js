@@ -1,8 +1,8 @@
 const BLOG = {
-  title: '小牛助手 | BULLBULL.CN | Beta',
-  author: 'BULLBULL.CN',
-  email: 'bullbull.cn@gmail.com',
-  link: 'https://bullbull.vercel.app',
+  title: '1988.ONE | Beta',
+  author: '1988.ONE',
+  email: 'xxx@gmail.com',
+  link: 'https://1988.vercel.app',
   description: ' 加油！',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://bullbull.cn',
+  socialLink: 'https://1988.one',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
